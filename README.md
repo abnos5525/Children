@@ -5,7 +5,7 @@ In this program you input father and mother info like:
 - eye color
 - skin color
 - blood type
-and it shows you all type of their children!
+And it shows you all type of their children!
 
 ## Details
 Written in python 3
